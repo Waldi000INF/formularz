@@ -1,0 +1,19 @@
+form
+{
+    background-color: gray;
+    color: #fff;
+    width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+input, select, textarea
+{
+    display: block;
+}
+
+input[type="radio"], input[type="checkbox"]
+{
+    display: inline-block;
+    width: 20px;
+}
